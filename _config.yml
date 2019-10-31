@@ -18,11 +18,11 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Wax'
-description:      'Minimal Exhibitions with Jekyll'
+title:            'New College Screenprints'
+description:      'New College Screenprints'
 url:              'https://carolinenewberg.github.io'
 baseurl:          '/ncf-screenprints'
-copyright:        'Example copyright org, 2019'
+copyright:        'Copyright, 2019'
 logo:             '/assets/logo.png'
 
 # ---------------------------------------------------------------
@@ -121,11 +121,11 @@ menu:
 footer:
   links:
     - label: 'GitHub'
-      link: 'https://github.com/minicomp/wax'
+      link: 'https://github.com/carolinenewberg'
     - label: 'Credits'
       link: '/credits'
     - label: 'Contact'
-      link: 'https://gitter.im/minicomp/wax/'
+      link: 'mailto:caroline.newberg17@ncf.edu'
   logos:
     - img: '/img/logo.png'
 
