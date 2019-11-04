@@ -7,6 +7,6 @@ Using Jekyll, Wax, and Github Pages, this digital exhibition displays screenprin
 
 # Getting Started
 
-Navigate to [https://carolinenewberg.github.io/ncf-screenprints]() to checkout the display. 
+Navigate to ()[https://carolinenewberg.github.io/ncf-screenprints] to checkout the display. 
 
 
