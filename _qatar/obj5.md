@@ -1,13 +1,16 @@
 ---
 pid: obj5
-artist: Unknown
-location: Iran
-label: Panel from Iran
-_date: 1600 - 1625
-object_type: panel
-current_location: The Museum of Islamic Art, Qatar
-source: https://commons.wikimedia.org/wiki/File:Unknown,_Iran_-_Panel_from_Iran_-_Google_Art_Project.jpg
-order: '04'
+label: Print 5
+size: 50x45
+last_used: undated
+paint_color: Red
+screen_color: Blue
+object_type: Activism
+description: 'One design: A drawing of a man (possibly Ayatollah Khomeini) with a
+  full beard and some type of head garment on. Text above him says "One Nation Under
+  God:" and text below him says "IRAN". Red and black paint on the back of the screen
+  suggests the use of the frame for previous projects involving those colors.'
+order: '4'
 layout: qatar_item
 collection: qatar
 thumbnail: "/img/derivatives/iiif/images/obj5/full/250,/0/default.jpg"

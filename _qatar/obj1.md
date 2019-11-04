@@ -1,13 +1,18 @@
 ---
 pid: obj1
-artist: Al-Hajj Hafiz Muhammad Nuri
-location: Turkey
-label: The Dala'il al-Khayrat of al-Juzuli
-_date: '1801'
-object_type: manuscript
-current_location: The Museum of Islamic Art, Qatar
-source: https://commons.wikimedia.org/wiki/File:Al-Hajj_Hafiz_Muhammad_Nuri,_Turkey,_1801_-_The_Dala%27il_al-Khayrat_of_al-Juzuli_-_Google_Art_Project.jpg
-order: '00'
+label: Print 1
+size: 53x53
+last_used: '1999'
+paint_color: Black
+screen_color: Yellow
+object_type: PCP
+description: 'Two designs. Design 1: Text that says "I CAME/I SAW/I CAME AGAIN. VALENTINE''S
+  DAY PCP 1999." <br> Design 2: two mostly nude figures, one AMAB and the other AFAB.
+  The AFAB figure, which kneels on the ground pulling fabric off of the AMAB figure,
+  says, "This time I get to be emperor!" Masking tape lines the frame. Blue and black
+  paint are on the back of the frame, indicating that the frame was used for a screenprinting
+  project involving paint of those colors.'
+order: '0'
 layout: qatar_item
 collection: qatar
 thumbnail: "/img/derivatives/iiif/images/obj1/full/250,/0/default.jpg"

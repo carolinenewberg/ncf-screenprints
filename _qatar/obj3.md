@@ -1,13 +1,17 @@
 ---
 pid: obj3
-artist: Unknown
-location: Egypt
-label: Map of the World
-_date: 15th century
-object_type: map
-current_location: The Museum of Islamic Art, Qatar
-source: https://commons.wikimedia.org/wiki/File:Unknown,_Egypt,_15th_Century_-_Map_of_World_-_Google_Art_Project.jpg
-order: '02'
+label: Print 3
+size: 53x53
+last_used: Undated
+paint_color: Black
+screen_color: Blue
+object_type: Personal Project
+description: 'Multiple designs, some that are indiscerable. Design 1: A bee with text
+  above it that says "B B B B B B B B B Dorm". Design 2, overlaid on Design 1: a man
+  in a top hat and boots playing electric guitar with smoke coming out of it. The
+  smoke forms into a moth-creature with a skeleton head. Text below the man says "Butterfly
+  Scream"'
+order: '2'
 layout: qatar_item
 collection: qatar
 thumbnail: "/img/derivatives/iiif/images/obj3/full/250,/0/default.jpg"

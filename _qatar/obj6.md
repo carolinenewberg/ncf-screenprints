@@ -1,13 +1,17 @@
 ---
 pid: obj6
-artist: Unknown
-location: Iran
-label: Diwan of Jami Manuscript
-_date: 16th century
-object_type: manuscript
-current_location: The Museum of Islamic Art, Qatar
-source: https://commons.wikimedia.org/wiki/File:Unknown,_Iran,_16th_Century_-_Diwan_of_Jami_Manuscript_-_Google_Art_Project.jpg
-order: '05'
+label: Print 6
+size: 50x45
+last_used: undated
+paint_color: Black
+screen_color: Yellow
+object_type: Student Project
+description: 'One design: At the topic, in block letters, text that says, "Bort".
+  Below the text, there is a whimsical looking bee. Presumably this is Bort, the mascot
+  of B Dorm. There is wear on the edges of the screen. No other paint colors besides
+  black are present on the frame, indicating that the frame was likely only used for
+  this project.'
+order: '5'
 layout: qatar_item
 collection: qatar
 thumbnail: "/img/derivatives/iiif/images/obj6/full/250,/0/default.jpg"

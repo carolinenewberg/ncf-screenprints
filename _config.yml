@@ -63,7 +63,7 @@ kramdown:
 
 collections:
   exhibits:
-    output: true
+    output: false
   qatar: # name of collection
     output: true # makes sure pages are output as html files
     layout: 'qatar_item' # the layout for the pages to use
@@ -85,14 +85,13 @@ search:
     index: '/search/index.json' # file the index will get written to
     collections:
       qatar:
-        content: false # whether or not to index page content
+        content: true # whether or not to index page content
         fields: # the metadata fields to index
-          - artist
-          - location
-          - label
-          - _date
+          - last_used
+          - paint_color
+          - screen_color
           - object_type
-          - current_location
+          - description
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
