@@ -103,7 +103,7 @@ search:
 menu:
   - label: 'About'
     sub:
-      - label: 'Wax'
+      - label: 'About This Collection'
         link: '/about/'
       - label: 'Credits'
         link: '/credits/'
