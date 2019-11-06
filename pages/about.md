@@ -6,46 +6,25 @@ permalink: /about/
 
 **What is this collection?**
 
+This collection that I am calling “New College Screenprints” is comprised of 49 printing screens made and used by New College students and staff. Since most of the printing screens are at least 15 years old, they are falling apart, and some have rows of rusted staples poking out where they can easily break skin if not handled carefully. For this reason, their digitization was imperative so that they can be safely viewed. 
 
-**Why is this collection important?**   
-A digital exhibit is a collection of curated cultural artifacts—manuscripts, paintings, photographs, sculptures, etc—often accompanied by an explicit narrative or argument. Though Wax focuses on images and text, it could be used for sound or video collections with some customization.
+The collection can be found in the NCSA Archives, which is in the Old Mail Room of the Hamilton Center at New College of Florida. Archive office hours are **Mondays 11:00am - 12:00pm, and Tuesdays 4:00pm - 5:30pm.** 
 
-**Wax is an extensible workflow based on minimal computing principles.**  
-Wax is hyper-aware of differences in resources, control and access around the world and close to home. As a result, it is purposefully lightweight: a few Ruby gems, some customizable UI components, good documentation and (hopefully soon!) recipes for creating, deploying, and maintaining custom digital exhibitions.
+Screenprinting is a printing method used to reproduce designs on fabric, primarily t-shirts. The designs on the screenprints below would have been reproduced multiple times for different people. New College students made these printing screens because they thought the design was important enough to not only produce but reproduce and distribute. Therefore, by looking at these screens we can find out what kind of things New College students thought important enough to commemorate. 
 
-**The exhibition sites created by Wax are static.**  
-This means they consist of flat HTML, CSS, and JavaScript files that don't need to communicate in a complex way back to a server. This makes them cheaper, safer, and generally easier to maintain.
-
-**The skills needed to create Wax sites are agnostic.**  
-This means they are largely transferable for use in other digital projects. 'Learning Wax' does not mean learning how to use a platform. It involves learning the fundamentals of web development, data management, and [plain text editing](https://zapier.com/blog/beginner-ultimate-guide-markdown/) while leveraging a few great open source libraries and frameworks along the way.
-
-**Wax keeps the collection presentation separate from the collection data.**  
-The Wax workflow starts with making standardized image files and metadata records and builds around them, handling canonical information, scholarly content, and site styling differently and deliberately. This makes it easier for you or others to share, reuse and reimagine your collection data in other contexts.
-
-## Who is Wax for?
-
-Wax was created for individuals and groups who either don't have or don't want to use a lot of resources to create their scholarly or cultural exhibits. It's best suited for folks who are willing to take on some technical responsibility in exchange for a lot of flexibility.
-
-For beginners, Wax has a relatively high, but general-purpose learning curve. To get the most out of Wax, you should have some familiarity with:
-
-- Using an interactive shell (e.g., Bash/Terminal) to install and interact with programs, files, and directories on your local computer.
-- Using Git and GitHub to version control and collaborate on projects.
-- Using Jekyll to generate static sites.
-- Creating and normalizing data files (e.g., CSV, JSON, YAML)
-- Using file-naming conventions and best practices.
-- Editing HTML, CSS, and some JavaScript.
-
-**However, Wax is also great for teaching or learning the skills above!** For examples of digital pedagogy via the creation of Wax exhibitions, check out [this workshop](https://www.columbia.edu/content/events/introduction-minimal-computing-humanities-building-exhibit-primary-sources-using-wax), [this GitHub repository](https://github.com/stylerevolution/stylerevolution.github.io), and [this custom Wax site](https://stylerevolution.github.io/).
-
-**Wax is also phenomenal for professionals who play a facilitating role**, such as Digital Scholarship Librarians or Coordinators. With some practice, Wax substantially reduces the time to production and post-production maintenance costs for you and your team. In the most common scenario, students, faculty, colleagues or any other collaborators just have to provide you with a properly formatted spreadsheet and the text for the exhibits. The extras are up to you.
+If you’d like to learn more about how these screens are made and used, this is a video I found to be informative: https://www.youtube.com/watch?v=wogKeYH2wEE
 
 
-## So what does the Wax workflow *look like?*
+**History of the Printing Screens**
 
-Below is a diagram to give you a zoomed-out view. In summary, you create a file of metadata records for your collection (in CSV, YAML, or JSON format), organize your collection image files, and put both in the Jekyll site folder. After updating your configuration, you run a few command line tasks to prepare the data and metadata for use by the Jekyll site. Jekyll then uses special layouts and Wax components to build the exhibit and spits them out as static pages ready to publish.
+New College has a screenprinting studio that is available to students, although in recent years it has been used less with the increasing accessibility of more professional, cheap t-shirt making companies and technology making the designing aspect easier. The presence of a screenprinting studio belonging to the school resulted in a high degree of utilization at its prime, and made it much more likely for these printing screens to remain in the care of the school. 
 
-From there, you can run tests on your site to catch errors and decide where and how to put it online or in offline media.
 
-<a href="{{ '/img/wax_workflow.jpg' | absolute_url }}">
-  <img src="{{ '/img/wax_workflow.jpg' | absolute_url }}"/>
-</a>
+**What can the printing screens tell us?**
+
+In analyzing a collection of artifacts, it is important to use research questions to frame investigations. Mine were: <i>What kind of events happened at New College during the past? What kind of things did New College students find significant? What sorts of things did past New College students want to commemorate?</i>
+
+This is reflected in the organization of this website by type of use, which was determined by the content of the screen's designs. Through this classification, we can learn about the types of events or places that New College students thought were important enough to commenorate. The most common types of printing screen in the collection were for PCP (or COUP, although all of the screen pre-date this name change) or other student-run recreational campus events, such as the Crucial BBQ or the Easter Egg-stravaganza. Other types of printing screens are represented, such as those likely used for personal student projects removed from official College activities. Several screens were likely made to make shirts commemorating bands, which may not have been endorsed by New College in an official capacity, but were still an important aspect of student life— important enough to commemorate. 
+
+The physical process of screenprinting is evident in the printing screens. Looking closely at the screens, you can see the type of paint used, the strokes used to apply the painted design to an outside material, and other interventions used to get the clearest design possible. Many of the screens feature tape laid over part of the design. This is because when only certain parts of designs needed to be repainted, tape was placed over the part of the design that did not need to be retouched. Or, if a screen featured two designs, tape would be placed over the design not being used.
+
